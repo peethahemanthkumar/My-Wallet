@@ -116,15 +116,12 @@ Money management made simple. Bill organizer. Wallet helps you view all your fin
 
 <h2>About this project</h2>
 <p>This project is based on the Wallet application available on Play Store. This is a personlised application which will help one maintain ones expences.</p>
-<ul>
-  <li>Features :
+<p>Features :</p>
     <ul>
       <li>Made it possible for multiple users to create their own accounts.</li> 
       <li>Every user is allocated saperate tabels.</li>
       <li>Keep track of your monthly bills.</li>
       <li>Edit/Delete your records.</li>
       <li>This project is very dynamically structured to give the user the best experience.</li>
-    </ul>  
-  </li>
-</ul>
+    </ul>
 
